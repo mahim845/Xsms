@@ -31,8 +31,8 @@ from telebot.types import (
 # ==============================================================================
 # CONFIGURATION & CREDENTIALS
 # ==============================================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8941455733:AAF9g9oS2-LQb0gn8em3Z2alT4cS4FPjHdo")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "7847935519"))
+BOT_TOKEN = os.getenv("BOT_TOKEN", "9230294564:AAENJRoAd_c_mZMCqeEHkhOoaHLJxrfiaxA")
+ADMIN_ID = int(os.getenv("ADMIN_ID", "7276206449"))
 MINI_APP_URL = os.getenv("MINI_APP_URL", "https://emoji-map.cloud-edge.workers.dev/")
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
